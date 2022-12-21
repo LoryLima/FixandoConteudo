@@ -1,0 +1,15 @@
+C:\Users\lsousa\Documents\Nivelamento\ProjetoComments\ProjetoComments\bin\Debug\net6.0\ProjetoComments.exe
+C:\Users\lsousa\Documents\Nivelamento\ProjetoComments\ProjetoComments\bin\Debug\net6.0\ProjetoComments.deps.json
+C:\Users\lsousa\Documents\Nivelamento\ProjetoComments\ProjetoComments\bin\Debug\net6.0\ProjetoComments.runtimeconfig.json
+C:\Users\lsousa\Documents\Nivelamento\ProjetoComments\ProjetoComments\bin\Debug\net6.0\ProjetoComments.dll
+C:\Users\lsousa\Documents\Nivelamento\ProjetoComments\ProjetoComments\bin\Debug\net6.0\ProjetoComments.pdb
+C:\Users\lsousa\Documents\Nivelamento\ProjetoComments\ProjetoComments\obj\Debug\net6.0\ProjetoComments.csproj.AssemblyReference.cache
+C:\Users\lsousa\Documents\Nivelamento\ProjetoComments\ProjetoComments\obj\Debug\net6.0\ProjetoComments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsousa\Documents\Nivelamento\ProjetoComments\ProjetoComments\obj\Debug\net6.0\ProjetoComments.AssemblyInfoInputs.cache
+C:\Users\lsousa\Documents\Nivelamento\ProjetoComments\ProjetoComments\obj\Debug\net6.0\ProjetoComments.AssemblyInfo.cs
+C:\Users\lsousa\Documents\Nivelamento\ProjetoComments\ProjetoComments\obj\Debug\net6.0\ProjetoComments.csproj.CoreCompileInputs.cache
+C:\Users\lsousa\Documents\Nivelamento\ProjetoComments\ProjetoComments\obj\Debug\net6.0\ProjetoComments.dll
+C:\Users\lsousa\Documents\Nivelamento\ProjetoComments\ProjetoComments\obj\Debug\net6.0\refint\ProjetoComments.dll
+C:\Users\lsousa\Documents\Nivelamento\ProjetoComments\ProjetoComments\obj\Debug\net6.0\ProjetoComments.pdb
+C:\Users\lsousa\Documents\Nivelamento\ProjetoComments\ProjetoComments\obj\Debug\net6.0\ProjetoComments.genruntimeconfig.cache
+C:\Users\lsousa\Documents\Nivelamento\ProjetoComments\ProjetoComments\obj\Debug\net6.0\ref\ProjetoComments.dll

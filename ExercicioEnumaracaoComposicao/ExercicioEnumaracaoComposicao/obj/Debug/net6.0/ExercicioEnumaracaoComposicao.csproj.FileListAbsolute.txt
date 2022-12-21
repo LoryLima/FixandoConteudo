@@ -1,0 +1,15 @@
+C:\Users\lsousa\Documents\Nivelamento\ExercicioEnumaracaoComposicao\ExercicioEnumaracaoComposicao\obj\Debug\net6.0\ExercicioEnumaracaoComposicao.csproj.AssemblyReference.cache
+C:\Users\lsousa\Documents\Nivelamento\ExercicioEnumaracaoComposicao\ExercicioEnumaracaoComposicao\obj\Debug\net6.0\ExercicioEnumaracaoComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsousa\Documents\Nivelamento\ExercicioEnumaracaoComposicao\ExercicioEnumaracaoComposicao\obj\Debug\net6.0\ExercicioEnumaracaoComposicao.AssemblyInfoInputs.cache
+C:\Users\lsousa\Documents\Nivelamento\ExercicioEnumaracaoComposicao\ExercicioEnumaracaoComposicao\obj\Debug\net6.0\ExercicioEnumaracaoComposicao.AssemblyInfo.cs
+C:\Users\lsousa\Documents\Nivelamento\ExercicioEnumaracaoComposicao\ExercicioEnumaracaoComposicao\obj\Debug\net6.0\ExercicioEnumaracaoComposicao.csproj.CoreCompileInputs.cache
+C:\Users\lsousa\Documents\Nivelamento\ExercicioEnumaracaoComposicao\ExercicioEnumaracaoComposicao\bin\Debug\net6.0\ExercicioEnumaracaoComposicao.exe
+C:\Users\lsousa\Documents\Nivelamento\ExercicioEnumaracaoComposicao\ExercicioEnumaracaoComposicao\bin\Debug\net6.0\ExercicioEnumaracaoComposicao.deps.json
+C:\Users\lsousa\Documents\Nivelamento\ExercicioEnumaracaoComposicao\ExercicioEnumaracaoComposicao\bin\Debug\net6.0\ExercicioEnumaracaoComposicao.runtimeconfig.json
+C:\Users\lsousa\Documents\Nivelamento\ExercicioEnumaracaoComposicao\ExercicioEnumaracaoComposicao\bin\Debug\net6.0\ExercicioEnumaracaoComposicao.dll
+C:\Users\lsousa\Documents\Nivelamento\ExercicioEnumaracaoComposicao\ExercicioEnumaracaoComposicao\bin\Debug\net6.0\ExercicioEnumaracaoComposicao.pdb
+C:\Users\lsousa\Documents\Nivelamento\ExercicioEnumaracaoComposicao\ExercicioEnumaracaoComposicao\obj\Debug\net6.0\ExercicioEnumaracaoComposicao.dll
+C:\Users\lsousa\Documents\Nivelamento\ExercicioEnumaracaoComposicao\ExercicioEnumaracaoComposicao\obj\Debug\net6.0\refint\ExercicioEnumaracaoComposicao.dll
+C:\Users\lsousa\Documents\Nivelamento\ExercicioEnumaracaoComposicao\ExercicioEnumaracaoComposicao\obj\Debug\net6.0\ExercicioEnumaracaoComposicao.pdb
+C:\Users\lsousa\Documents\Nivelamento\ExercicioEnumaracaoComposicao\ExercicioEnumaracaoComposicao\obj\Debug\net6.0\ExercicioEnumaracaoComposicao.genruntimeconfig.cache
+C:\Users\lsousa\Documents\Nivelamento\ExercicioEnumaracaoComposicao\ExercicioEnumaracaoComposicao\obj\Debug\net6.0\ref\ExercicioEnumaracaoComposicao.dll

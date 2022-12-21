@@ -1,0 +1,15 @@
+C:\Users\lsousa\Documents\Nivelamento\WowBased\WowBased\obj\Debug\net6.0\WowBased.csproj.AssemblyReference.cache
+C:\Users\lsousa\Documents\Nivelamento\WowBased\WowBased\obj\Debug\net6.0\WowBased.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsousa\Documents\Nivelamento\WowBased\WowBased\obj\Debug\net6.0\WowBased.AssemblyInfoInputs.cache
+C:\Users\lsousa\Documents\Nivelamento\WowBased\WowBased\obj\Debug\net6.0\WowBased.AssemblyInfo.cs
+C:\Users\lsousa\Documents\Nivelamento\WowBased\WowBased\obj\Debug\net6.0\WowBased.csproj.CoreCompileInputs.cache
+C:\Users\lsousa\Documents\Nivelamento\WowBased\WowBased\bin\Debug\net6.0\WowBased.exe
+C:\Users\lsousa\Documents\Nivelamento\WowBased\WowBased\bin\Debug\net6.0\WowBased.deps.json
+C:\Users\lsousa\Documents\Nivelamento\WowBased\WowBased\bin\Debug\net6.0\WowBased.runtimeconfig.json
+C:\Users\lsousa\Documents\Nivelamento\WowBased\WowBased\bin\Debug\net6.0\WowBased.dll
+C:\Users\lsousa\Documents\Nivelamento\WowBased\WowBased\bin\Debug\net6.0\WowBased.pdb
+C:\Users\lsousa\Documents\Nivelamento\WowBased\WowBased\obj\Debug\net6.0\WowBased.dll
+C:\Users\lsousa\Documents\Nivelamento\WowBased\WowBased\obj\Debug\net6.0\refint\WowBased.dll
+C:\Users\lsousa\Documents\Nivelamento\WowBased\WowBased\obj\Debug\net6.0\WowBased.pdb
+C:\Users\lsousa\Documents\Nivelamento\WowBased\WowBased\obj\Debug\net6.0\WowBased.genruntimeconfig.cache
+C:\Users\lsousa\Documents\Nivelamento\WowBased\WowBased\obj\Debug\net6.0\ref\WowBased.dll
