@@ -11,19 +11,16 @@ namespace WowBased.Entities
     {
         public string Nick { get; set; }
         public string Classe { get; set; }
-        
+
         public string Spec { get; set; }
 
-        public Jogador()
-        {
-
-        }
 
         public Jogador(string nick, string classe, string spec)
         {
             Classe = classe;
             Nick = nick;
             Spec = spec;
+            
         }
 
         public int MediaDps(int dpsBurst, int dpsFinal)
@@ -31,17 +28,12 @@ namespace WowBased.Entities
             int media = (dpsBurst + dpsFinal) / 2;
             return media;
         }
+        
 
         public override string ToString()
-        {
-            StringBuilder dadosJogador = new StringBuilder();
-            dadosJogador.AppendLine("* * * * * * * * * * * * * * * * * * * *");
-            dadosJogador.AppendLine($"Nick do personagem: {Nick}");
-            dadosJogador.AppendLine($"Classe do Jogador: {Classe}");
-            dadosJogador.AppendLine($"Especialidade: {Spec}");
-            dadosJogador.AppendLine("* * * * * * * * * * * * * * * * * * * *");
+        { 
 
-            return dadosJogador.ToString();
+            return $"Nick do Personagem: {Nick}\nClasse: {Classe}\nEspecialidade: {Spec}\n";
         }
     }
 }
