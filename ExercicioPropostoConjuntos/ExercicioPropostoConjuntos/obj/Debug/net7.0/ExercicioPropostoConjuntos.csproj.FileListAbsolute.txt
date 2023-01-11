@@ -1,0 +1,15 @@
+G:\CSharp\ExercicioPropostoConjuntos\ExercicioPropostoConjuntos\bin\Debug\net7.0\ExercicioPropostoConjuntos.exe
+G:\CSharp\ExercicioPropostoConjuntos\ExercicioPropostoConjuntos\bin\Debug\net7.0\ExercicioPropostoConjuntos.deps.json
+G:\CSharp\ExercicioPropostoConjuntos\ExercicioPropostoConjuntos\bin\Debug\net7.0\ExercicioPropostoConjuntos.runtimeconfig.json
+G:\CSharp\ExercicioPropostoConjuntos\ExercicioPropostoConjuntos\bin\Debug\net7.0\ExercicioPropostoConjuntos.dll
+G:\CSharp\ExercicioPropostoConjuntos\ExercicioPropostoConjuntos\bin\Debug\net7.0\ExercicioPropostoConjuntos.pdb
+G:\CSharp\ExercicioPropostoConjuntos\ExercicioPropostoConjuntos\obj\Debug\net7.0\ExercicioPropostoConjuntos.csproj.AssemblyReference.cache
+G:\CSharp\ExercicioPropostoConjuntos\ExercicioPropostoConjuntos\obj\Debug\net7.0\ExercicioPropostoConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\ExercicioPropostoConjuntos\ExercicioPropostoConjuntos\obj\Debug\net7.0\ExercicioPropostoConjuntos.AssemblyInfoInputs.cache
+G:\CSharp\ExercicioPropostoConjuntos\ExercicioPropostoConjuntos\obj\Debug\net7.0\ExercicioPropostoConjuntos.AssemblyInfo.cs
+G:\CSharp\ExercicioPropostoConjuntos\ExercicioPropostoConjuntos\obj\Debug\net7.0\ExercicioPropostoConjuntos.csproj.CoreCompileInputs.cache
+G:\CSharp\ExercicioPropostoConjuntos\ExercicioPropostoConjuntos\obj\Debug\net7.0\ExercicioPropostoConjuntos.dll
+G:\CSharp\ExercicioPropostoConjuntos\ExercicioPropostoConjuntos\obj\Debug\net7.0\refint\ExercicioPropostoConjuntos.dll
+G:\CSharp\ExercicioPropostoConjuntos\ExercicioPropostoConjuntos\obj\Debug\net7.0\ExercicioPropostoConjuntos.pdb
+G:\CSharp\ExercicioPropostoConjuntos\ExercicioPropostoConjuntos\obj\Debug\net7.0\ExercicioPropostoConjuntos.genruntimeconfig.cache
+G:\CSharp\ExercicioPropostoConjuntos\ExercicioPropostoConjuntos\obj\Debug\net7.0\ref\ExercicioPropostoConjuntos.dll
