@@ -1,0 +1,15 @@
+G:\CSharp\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net7.0\ExercicioConjuntos.exe
+G:\CSharp\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net7.0\ExercicioConjuntos.deps.json
+G:\CSharp\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net7.0\ExercicioConjuntos.runtimeconfig.json
+G:\CSharp\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net7.0\ExercicioConjuntos.dll
+G:\CSharp\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net7.0\ExercicioConjuntos.pdb
+G:\CSharp\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net7.0\ExercicioConjuntos.csproj.AssemblyReference.cache
+G:\CSharp\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net7.0\ExercicioConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+G:\CSharp\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net7.0\ExercicioConjuntos.AssemblyInfoInputs.cache
+G:\CSharp\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net7.0\ExercicioConjuntos.AssemblyInfo.cs
+G:\CSharp\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net7.0\ExercicioConjuntos.csproj.CoreCompileInputs.cache
+G:\CSharp\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net7.0\ExercicioConjuntos.dll
+G:\CSharp\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net7.0\refint\ExercicioConjuntos.dll
+G:\CSharp\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net7.0\ExercicioConjuntos.pdb
+G:\CSharp\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net7.0\ExercicioConjuntos.genruntimeconfig.cache
+G:\CSharp\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net7.0\ref\ExercicioConjuntos.dll
