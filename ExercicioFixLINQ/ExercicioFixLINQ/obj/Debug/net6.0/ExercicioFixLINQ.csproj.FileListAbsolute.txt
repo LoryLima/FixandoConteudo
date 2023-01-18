@@ -1,0 +1,15 @@
+C:\Users\lsousa\Documents\Nivelamento\ExercicioFixLINQ\ExercicioFixLINQ\bin\Debug\net6.0\ExercicioFixLINQ.exe
+C:\Users\lsousa\Documents\Nivelamento\ExercicioFixLINQ\ExercicioFixLINQ\bin\Debug\net6.0\ExercicioFixLINQ.deps.json
+C:\Users\lsousa\Documents\Nivelamento\ExercicioFixLINQ\ExercicioFixLINQ\bin\Debug\net6.0\ExercicioFixLINQ.runtimeconfig.json
+C:\Users\lsousa\Documents\Nivelamento\ExercicioFixLINQ\ExercicioFixLINQ\bin\Debug\net6.0\ExercicioFixLINQ.dll
+C:\Users\lsousa\Documents\Nivelamento\ExercicioFixLINQ\ExercicioFixLINQ\bin\Debug\net6.0\ExercicioFixLINQ.pdb
+C:\Users\lsousa\Documents\Nivelamento\ExercicioFixLINQ\ExercicioFixLINQ\obj\Debug\net6.0\ExercicioFixLINQ.csproj.AssemblyReference.cache
+C:\Users\lsousa\Documents\Nivelamento\ExercicioFixLINQ\ExercicioFixLINQ\obj\Debug\net6.0\ExercicioFixLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsousa\Documents\Nivelamento\ExercicioFixLINQ\ExercicioFixLINQ\obj\Debug\net6.0\ExercicioFixLINQ.AssemblyInfoInputs.cache
+C:\Users\lsousa\Documents\Nivelamento\ExercicioFixLINQ\ExercicioFixLINQ\obj\Debug\net6.0\ExercicioFixLINQ.AssemblyInfo.cs
+C:\Users\lsousa\Documents\Nivelamento\ExercicioFixLINQ\ExercicioFixLINQ\obj\Debug\net6.0\ExercicioFixLINQ.csproj.CoreCompileInputs.cache
+C:\Users\lsousa\Documents\Nivelamento\ExercicioFixLINQ\ExercicioFixLINQ\obj\Debug\net6.0\ExercicioFixLINQ.dll
+C:\Users\lsousa\Documents\Nivelamento\ExercicioFixLINQ\ExercicioFixLINQ\obj\Debug\net6.0\refint\ExercicioFixLINQ.dll
+C:\Users\lsousa\Documents\Nivelamento\ExercicioFixLINQ\ExercicioFixLINQ\obj\Debug\net6.0\ExercicioFixLINQ.pdb
+C:\Users\lsousa\Documents\Nivelamento\ExercicioFixLINQ\ExercicioFixLINQ\obj\Debug\net6.0\ExercicioFixLINQ.genruntimeconfig.cache
+C:\Users\lsousa\Documents\Nivelamento\ExercicioFixLINQ\ExercicioFixLINQ\obj\Debug\net6.0\ref\ExercicioFixLINQ.dll
